@@ -26,3 +26,5 @@
 - ⚡ Fun fact: I've lived 4 years at sea 🌊
 - 📨 Feel free to reach me by mail for any project i may help you with !
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastienFrancois&show_icons=true&theme=algolia)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienFrancois&theme=algolia)
+
