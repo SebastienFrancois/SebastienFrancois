@@ -21,7 +21,7 @@
 
 - 🧑‍💻 I’m currently working on a React/Typescript & Django/Python project.
 - ☕ I’m currently growing my Devops skills.
-- 🤝 I’m looking to collaborate on full js/ts projects.
+- 🤝 I’m looking to collaborate on full js/ts projects or any projects in microservices architecture.
 - 💬 Ask me about  music and travelling.
 - ⚡ Fun fact: I've lived 4 years at sea 🌊
 - 📨 Feel free to reach me by mail for any project i may help you with !
