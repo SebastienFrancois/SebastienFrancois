@@ -19,7 +19,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-- 🧑‍💻 I’m currently working on a React/Typescript & Django/Python project.
+- 🧑‍💻 I’m currently working on a React/Typescript & .Net 6 project.
 - ☕ I’m currently growing my Devops skills.
 - 🤝 I’m looking to collaborate on full js/ts projects or any projects in microservices architecture.
 - 💬 Ask me about  music and travelling.
